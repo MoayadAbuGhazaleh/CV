@@ -1,2 +1,1 @@
-index
-cv.html
+index.html
